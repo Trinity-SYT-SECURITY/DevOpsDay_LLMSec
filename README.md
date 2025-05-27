@@ -1,6 +1,8 @@
-確保你的模型中有包含
+確保你的模型中有包含以下這些 
 
-C:\Users\meows>ollama list jimscard/blackhat-hacker:latest
+C:\Users\meows>ollama list 
+
+jimscard/blackhat-hacker:latest
 
 nomic-embed-text:latest
 
