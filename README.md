@@ -18,6 +18,15 @@ gdisney/mistral-uncensored:latest
 
 > streamlit run main.py
 
+
+
+https://github.com/user-attachments/assets/39739cc1-0058-4a3d-b755-55d18f6adb75
+
+
+
+
+
+
 ----
 
 歡迎貢獻，有問題也請直接聯繫
