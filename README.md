@@ -23,7 +23,7 @@ gdisney/mistral-uncensored:latest
 https://github.com/user-attachments/assets/39739cc1-0058-4a3d-b755-55d18f6adb75
 
 
-
+簡報如果公開我會在LinkedIn公開內容
 
 
 
