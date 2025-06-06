@@ -14,11 +14,14 @@ gdisney/mistral-uncensored:latest
 ----
 要使用gemini請去這拿API KEY 免費版每分鐘請求有限制 https://aistudio.google.com/apikey
 
++ .env
+```
+GEMINI_API_KEY=
+```
+
 > pip install -r requirements.txt
 
 > streamlit run main.py
-
-
 
 https://github.com/user-attachments/assets/39739cc1-0058-4a3d-b755-55d18f6adb75
 
